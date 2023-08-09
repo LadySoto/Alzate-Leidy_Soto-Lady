@@ -1,4 +1,4 @@
-package com.backend.integrador.dao.impl;
+package com.backend.integrador.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
