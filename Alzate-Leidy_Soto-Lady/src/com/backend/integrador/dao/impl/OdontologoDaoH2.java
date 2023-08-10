@@ -63,7 +63,7 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
     public List<Odontologo> listarOdontologos() {
         Connection connection = null;
         Odontologo odontologo = null;
-        List<Odontologo> odontologosLista = null;
+        List<Odontologo> odontologosLista = new ArrayList<>();
         String select = "SELECT * FROM ODONTOLOGOS";
 
         try {
@@ -78,7 +78,6 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
                 String apellido = rst.getString(4);
 
                 odontologo = new Odontologo(id, matricula, nombre, apellido);
-                odontologosLista = new ArrayList<>();
                 odontologosLista.add(odontologo);
             }
         } catch (Exception e) {

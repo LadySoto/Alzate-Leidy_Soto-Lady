@@ -1,0 +1,12 @@
+[2023-08-09 23:33:11] [ERROR] [OdontologoDaoH2:39] A file path that is implicitly relative to the current working directory is not allowed in the database URL "jdbc:h2:~parcialbackend". Use an absolute path, ~/name, ./name, or the baseDir setting instead. [90011-220]
+[2023-08-09 23:33:11] [ERROR] [OdontologoDaoH2:55] No se pudo cerrar la conexion: Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-08-09 23:33:11] [ERROR] [OdontologoDaoH2:85] A file path that is implicitly relative to the current working directory is not allowed in the database URL "jdbc:h2:~parcialbackend". Use an absolute path, ~/name, ./name, or the baseDir setting instead. [90011-220]
+[2023-08-09 23:33:11] [ERROR] [OdontologoDaoH2:91] No se pudo cerrar la conexion: Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-08-09 23:45:08] [INFO ] [OdontologoDaoH2:36] Odontologo registrado: Odontologo{id=4, matricula=569986, nombre='Manuela', apellido='Cadavid'}
+[2023-08-10 00:10:34] [INFO ] [OdontologoDaoMemoria:30] Este es el odontologo: Odontologo{id=0, matricula=456321, nombre='Luis', apellido='Lopez'}
+[2023-08-10 00:10:34] [INFO ] [OdontologoDaoMemoria:30] Este es el odontologo: Odontologo{id=0, matricula=741258, nombre='Marta', apellido='Cano'}
+[2023-08-10 00:10:56] [INFO ] [OdontologoDaoMemoria:30] Este es el odontologo: Odontologo{id=0, matricula=456321, nombre='Luis', apellido='Lopez'}
+[2023-08-10 00:10:56] [INFO ] [OdontologoDaoMemoria:30] Este es el odontologo: Odontologo{id=0, matricula=741258, nombre='Marta', apellido='Cano'}
+[2023-08-10 00:11:54] [INFO ] [OdontologoDaoMemoria:30] Este es el odontologo: Odontologo{id=0, matricula=456321, nombre='Luis', apellido='Lopez'}
+[2023-08-10 00:11:54] [INFO ] [OdontologoDaoMemoria:30] Este es el odontologo: Odontologo{id=0, matricula=741258, nombre='Marta', apellido='Cano'}
+[2023-08-10 00:12:24] [INFO ] [OdontologoDaoH2:36] Odontologo registrado: Odontologo{id=5, matricula=569986, nombre='Manuela', apellido='Cadavid'}
