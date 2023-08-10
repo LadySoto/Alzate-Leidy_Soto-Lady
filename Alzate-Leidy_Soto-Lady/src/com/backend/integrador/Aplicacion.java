@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 
 public class Aplicacion {
     public static void main(String[] args) {
+
         Connection connection = null;
         try{
             Class.forName("org.h2.Driver");
