@@ -9,7 +9,6 @@ public class Aplicacion {
         try{
             Class.forName("org.h2.Driver");
             connection = DriverManager.getConnection("jdbc:h2:~parcialbackend;INIT=RUNSCRIPT FROM 'create.sql'", "sa", "sa");
-            System.out.println("conexion creada");
         } catch (Exception e){
             e.printStackTrace();
         } finally {
