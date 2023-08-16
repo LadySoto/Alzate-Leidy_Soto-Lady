@@ -60,7 +60,7 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
 
 
     @Override
-    public List<Odontologo> listarOdontologos() {
+    public List<Odontologo> listar() {
         Connection connection = null;
         Odontologo odontologo = null;
         List<Odontologo> odontologosLista = new ArrayList<>();
@@ -89,9 +89,8 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
             } catch (Exception ex) {
                 LOGGER.error("No se pudo cerrar la conexion: " + ex.getMessage());
             }
-
-            return odontologosLista;
         }
+        return odontologosLista;
     }
 }
 

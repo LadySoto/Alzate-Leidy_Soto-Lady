@@ -25,12 +25,11 @@ public class OdontologoDaoMemoria implements IDao<Odontologo> {
     }
 
     @Override
-    public List<Odontologo> listarOdontologos() {
+    public List<Odontologo> listar() {
         for (Odontologo odontologo : odontologoLista) {
             LOGGER.info("Este es el odontologo: " + odontologo);
         }
         return odontologoLista;
-
     }
 }
 

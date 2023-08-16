@@ -10,3 +10,7 @@
 [2023-08-10 00:11:54] [INFO ] [OdontologoDaoMemoria:30] Este es el odontologo: Odontologo{id=0, matricula=456321, nombre='Luis', apellido='Lopez'}
 [2023-08-10 00:11:54] [INFO ] [OdontologoDaoMemoria:30] Este es el odontologo: Odontologo{id=0, matricula=741258, nombre='Marta', apellido='Cano'}
 [2023-08-10 00:12:24] [INFO ] [OdontologoDaoH2:36] Odontologo registrado: Odontologo{id=5, matricula=569986, nombre='Manuela', apellido='Cadavid'}
+[2023-08-15 23:10:39] [INFO ] [OdontologoDaoH2:36] Odontologo registrado: Odontologo{id=6, matricula=569986, nombre='Manuela', apellido='Cadavid'}
+[2023-08-15 23:10:53] [INFO ] [OdontologoDaoH2:36] Odontologo registrado: Odontologo{id=7, matricula=569986, nombre='Manuela', apellido='Cadavid'}
+[2023-08-15 23:12:15] [INFO ] [OdontologoDaoH2:36] Odontologo registrado: Odontologo{id=8, matricula=569986, nombre='Manuela', apellido='Cadavid'}
+[2023-08-15 23:12:22] [INFO ] [OdontologoDaoH2:36] Odontologo registrado: Odontologo{id=9, matricula=569986, nombre='Manuela', apellido='Cadavid'}
