@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ade6421c-61c7-4884-9f18-83ff0b2d9ba6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-<<<<<<< HEAD
-    "last_opened_file_path": "C:/Users/Usuario/Desktop/Lady/DH/Bimestre 5/Back End/Alzate-Leidy_Soto-Lady/Alzate-Leidy_Soto-Lady",
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/Desktop/Lady/DH/Bimestre 5/Back End/Alzate-Leidy_Soto-Lady/Alzate-Leidy_Soto-Lady&quot;,
 =======
-    "last_opened_file_path": "G:/Documentos-C/BackEnd-CTD/parcialC4/AVILA-kATHERINE_MORALES-JUAN/AVILA-KATHERINE_MORALES-JUAN",
->>>>>>> 7981331b12081e6e42f5b573fab80cedf86e04aa
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    &quot;last_opened_file_path&quot;: &quot;G:/Documentos-C/BackEnd-CTD/parcialC4/AVILA-kATHERINE_MORALES-JUAN/AVILA-KATHERINE_MORALES-JUAN&quot;,
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 7981331b12081e6e42f5b573fab80cedf86e04aa
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
