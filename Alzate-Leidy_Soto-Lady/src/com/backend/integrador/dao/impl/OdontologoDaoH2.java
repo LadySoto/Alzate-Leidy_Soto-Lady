@@ -90,11 +90,6 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
             } catch (Exception ex) {
                 LOGGER.error("No se pudo cerrar la conexion: " + ex.getMessage());
             }
-<<<<<<< HEAD
-=======
-
-            return odontologosLista; //este return deberia estar fuera del bloque finally
->>>>>>> 7981331b12081e6e42f5b573fab80cedf86e04aa
         }
         return odontologosLista;
     }

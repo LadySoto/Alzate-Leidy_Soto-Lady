@@ -7,15 +7,6 @@
     <list default="true" id="ade6421c-61c7-4884-9f18-83ff0b2d9ba6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/src/com/backend/integrador/dao/IDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/backend/integrador/dao/IDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/backend/integrador/dao/impl/OdontologoDaoMemoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/backend/integrador/dao/impl/OdontologoDaoMemoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/backend/integrador/service/OdontologoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/backend/integrador/service/OdontologoService.java" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/Alzate-Leidy_Soto-Lady.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Alzate-Leidy_Soto-Lady.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/backend/integrador/dao/IDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/backend/integrador/dao/IDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/backend/integrador/dao/impl/OdontologoDaoH2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/backend/integrador/dao/impl/OdontologoDaoH2.java" afterDir="false" />
->>>>>>> 7981331b12081e6e42f5b573fab80cedf86e04aa
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
